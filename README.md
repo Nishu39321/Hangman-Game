@@ -1,9 +1,12 @@
 # The Hangman Game
 Introduction
+
 Welcome to the Hangman Game! This game allows you to enjoy the classic game of Hangman with varying levels of difficulty, different sets of secret words, and a Hall of Fame to keep track of the highest scorers.
 
 Setup
+
 Prerequisites:
+
 Python 3.x installed on your system.
 Required Python packages: random, pandas, tabulate, sqlite3, os.
 Install Required Packages:
